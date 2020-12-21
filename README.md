@@ -4,7 +4,7 @@
 
 #Content:
 
-#Every player available in FIFA 20
+#Every player available in FIFA 20:
 -100+ attributes
 -URL of the scraped player
 -Player positions, with the role in the club and in the national team
